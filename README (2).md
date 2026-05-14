@@ -43,7 +43,7 @@
 | Business Impact | Financial and operational transformation |
 | Recommendations| Board-level action priorities |
 | Lessons Learned | Strategic insights from the engagement |
-| Repository Structur]| How this project is organized |
+| Repository Structure| How this project is organized |
 | Team | Contributors and course information |
 
 ---

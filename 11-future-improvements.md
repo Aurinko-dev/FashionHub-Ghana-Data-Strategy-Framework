@@ -1,4 +1,4 @@
-# 🚀 Future Improvements — FashionHub Ghana
+#  Future Improvements — FashionHub Ghana
 
 ---
 

@@ -48,7 +48,7 @@
 
 ---
 
-## 🎯 Executive Summary
+##  Executive Summary
 
 **FashionHub Ghana** is a Accra-based online fashion e-commerce startup selling Ghanaian-designed clothing to local and diaspora markets. In its first month of operation, the company generated **GHS 450,000 in revenue** while posting a **GHS 90,000 net loss** with a -20% margin driven by operational chaos, not market failure.
 
@@ -247,13 +247,13 @@ MATURITY MODEL — FASHIONHUB PROGRESSION PATH
 
 ### What "Data-Driven" Means at FashionHub
 
-- ✅ Every marketing GHS is tracked to a measurable outcome
-- ✅ Customer segments are known, scored, and served differently
-- ✅ Delivery failures are predicted before they happen
-- ✅ Inventory levels are optimized based on demand forecasting
-- ✅ The founder sees the business's health in real-time, every day
-- ✅ The team makes suggestions backed by data, not opinion
-- ✅ Experiments (A/B tests) replace guesswork for all major decisions
+- Every marketing GHS is tracked to a measurable outcome
+- Customer segments are known, scored, and served differently
+-  Delivery failures are predicted before they happen
+- Inventory levels are optimized based on demand forecasting
+- The founder sees the business's health in real-time, every day
+- The team makes suggestions backed by data, not opinion
+-  Experiments (A/B tests) replace guesswork for all major decisions
 
 ### Transformation Roadmap
 
@@ -582,7 +582,7 @@ In Ghana's e-commerce market where most competitors operate with zero analytics 
 ```
 Data-Strategy-Framework-FashionHub-Ghana/
 │
-├── 📄 README.md                                            
+├── 📄 README.md                                          
 ├── 📁 docs/                            
 │   ├── 01-executive-summary.md
 │   ├── 02-business-problem.md
@@ -609,7 +609,7 @@ Data-Strategy-Framework-FashionHub-Ghana/
 │   └── phase3-advanced-analytics.md
 │
 └── 📁 presentation/                   
-    └── Group9_FashionHub_DataStrategy.pptx
+    └── FashionHub_GH.pptx
 
 ---
 

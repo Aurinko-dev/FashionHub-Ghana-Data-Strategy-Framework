@@ -51,8 +51,6 @@
 
 ## 🎯 Executive Summary
 
-> **Full document:** [`docs/01-executive-summary.md`](docs/01-executive-summary.md)
-
 **FashionHub Ghana** is a Accra-based online fashion e-commerce startup selling Ghanaian-designed clothing to local and diaspora markets. In its first month of operation, the company generated **GHS 450,000 in revenue** while posting a **GHS 90,000 net loss** with a -20% margin driven by operational chaos, not market failure.
 
 This project delivers a **complete, eight-section enterprise data strategy** designed as a consulting engagement simulation for OMIS 407: Analytics Planning and Strategy at the University of Ghana Business School.
@@ -179,8 +177,6 @@ This engagement follows the **OMIS 407 Eight-Section Data Strategy Framework**:
 
 ## Data & Analytics Maturity Assessment
 
-> **Full document:** [`docs/04-maturity-assessment.md`](docs/04-maturity-assessment.md)
-
 ### Current State: Level 1 — Descriptive Only
 
 FashionHub enters this engagement at **Maturity Level 1** — basic and incomplete reporting, fully reactive decision-making, zero analytical infrastructure.
@@ -250,8 +246,6 @@ MATURITY MODEL — FASHIONHUB PROGRESSION PATH
 
 ##  Target Data Vision
 
-> **Full document:** [`docs/05-target-data-vision.md`](docs/05-target-data-vision.md)
-
 ### Vision Statement
 
 > *"FashionHub Ghana becomes a data-first e-commerce business where every decision from inventory procurement to marketing spend to delivery routing. It is informed by real-time, high-quality data. The business achieves sustainable profitability by understanding its customers deeply, operating with precision and learning continuously."*
@@ -281,7 +275,6 @@ MATURITY MODEL — FASHIONHUB PROGRESSION PATH
 
 ##  Data Architecture
 
-> **Full document:** [`docs/06-data-architecture.md`](docs/06-data-architecture.md)
 
 ### Four-Layer Conceptual Architecture
 
@@ -333,7 +326,6 @@ MATURITY MODEL — FASHIONHUB PROGRESSION PATH
 
 ## Technology Stack
 
-> **Full document:** [`docs/07-technology-stack.md`](docs/07-technology-stack.md)
 
 ### Guiding Principle
 > *"Start with the minimum viable stack. Let data maturity drive tool complexity and not the reverse."*
@@ -364,8 +356,6 @@ MATURITY MODEL — FASHIONHUB PROGRESSION PATH
 ---
 
 ##  Data Governance, Ethics & Risk
-
-> **Full document:** [`governance/data-governance-framework.md`](governance/data-governance-framework.md)
 
 ### Governance Structure
 
@@ -422,8 +412,6 @@ MATURITY MODEL — FASHIONHUB PROGRESSION PATH
 ---
 
 ##  Implementation Roadmap
-
-> **Full document:** [`roadmap/implementation-roadmap.md`](roadmap/implementation-roadmap.md)
 
 ### Phase 1 — Months 0–6: Quick Wins
 **Objective:** Stop the bleeding. Achieve baseline profitability.
@@ -522,8 +510,6 @@ WEEK 12 ── MONTHLY PROFITABILITY ACHIEVED ✓
 
 ## Business Impact
 
-> **Full document:** [`docs/09-business-impact.md`](docs/09-business-impact.md)
-
 ### Financial Impact Summary
 
 ```
@@ -563,8 +549,6 @@ In Ghana's e-commerce market where most competitors operate with zero analytics 
 
 ## Strategic Recommendations
 
-> **Full document:** [`docs/10-recommendations.md`](docs/10-recommendations.md)
-
 ### Priority Actions for the Board
 
 **Immediate (This Week)**
@@ -588,8 +572,6 @@ In Ghana's e-commerce market where most competitors operate with zero analytics 
 ---
 
 ##  Lessons Learned
-
-> **Full document:** [`docs/11-lessons-learned.md`](docs/11-lessons-learned.md)
 
 | Lesson | Context | Strategic Takeaway |
 |---|---|---|

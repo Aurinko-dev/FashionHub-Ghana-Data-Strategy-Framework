@@ -25,7 +25,7 @@
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 | Section | Description |
 |---|---|
@@ -53,12 +53,13 @@
 
 > **Full document:** [`docs/01-executive-summary.md`](docs/01-executive-summary.md)
 
-**FashionHub Ghana** is a Accra-based online fashion e-commerce startup selling Ghanaian-designed clothing to local and diaspora markets. In its first month of operation, the company generated **GHS 450,000 in revenue** while posting a **-GHS 90,000 net loss** — a -20% margin driven by operational chaos, not market failure.
+**FashionHub Ghana** is a Accra-based online fashion e-commerce startup selling Ghanaian-designed clothing to local and diaspora markets. In its first month of operation, the company generated **GHS 450,000 in revenue** while posting a **GHS 90,000 net loss** with a -20% margin driven by operational chaos, not market failure.
 
 This project delivers a **complete, eight-section enterprise data strategy** designed as a consulting engagement simulation for OMIS 407: Analytics Planning and Strategy at the University of Ghana Business School.
 
 ### The Core Problem
-FashionHub was not losing money because of weak demand. It was losing money because **decisions were made blind** — no analytics, no CRM, no real-time visibility, and no operational data integration. GHS 120 was spent acquiring each customer, while 85% of those customers never returned. 30% of orders failed delivery due to bad address data.
+FashionHub was not losing money because of weak demand. It was losing money because **decisions were made blind** Having no analytics, no CRM, no real-time visibility and no operational data integration.
+GHS 120 was spent acquiring each customer, while 85% of those customers never returned. 30% of orders failed delivery due to bad address data.
 
 ### The Strategy
 A phased, 18-month data strategy targeting **Level 1 → Level 3 analytics maturity**, built on an affordable ~$200/month technology stack, governed by a clear ownership framework, and aligned to Ghana's Data Protection Act (Act 843).
@@ -75,7 +76,7 @@ A phased, 18-month data strategy targeting **Level 1 → Level 3 analytics matur
 
 ---
 
-## 🔴 Business Problem
+##  Business Problem
 
 > **Full document:** [`docs/02-business-problem.md`](docs/02-business-problem.md)
 
@@ -128,7 +129,7 @@ tracking  Retention       validation
 
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 
 > **Full document:** [`docs/03-project-objectives.md`](docs/03-project-objectives.md)
 
@@ -149,7 +150,7 @@ This engagement was scoped to deliver eight strategic outcomes:
 
 ---
 
-## 🏛️ Strategy Framework Overview
+##  Strategy Framework Overview
 
 This engagement follows the **OMIS 407 Eight-Section Data Strategy Framework**:
 
@@ -176,7 +177,7 @@ This engagement follows the **OMIS 407 Eight-Section Data Strategy Framework**:
 
 ---
 
-## 📊 Data & Analytics Maturity Assessment
+## Data & Analytics Maturity Assessment
 
 > **Full document:** [`docs/04-maturity-assessment.md`](docs/04-maturity-assessment.md)
 
@@ -247,13 +248,13 @@ MATURITY MODEL — FASHIONHUB PROGRESSION PATH
 
 ---
 
-## 🔭 Target Data Vision
+##  Target Data Vision
 
 > **Full document:** [`docs/05-target-data-vision.md`](docs/05-target-data-vision.md)
 
 ### Vision Statement
 
-> *"FashionHub Ghana becomes a data-first e-commerce business where every decision — from inventory procurement to marketing spend to delivery routing — is informed by real-time, high-quality data. The business achieves sustainable profitability by understanding its customers deeply, operating with precision, and learning continuously."*
+> *"FashionHub Ghana becomes a data-first e-commerce business where every decision from inventory procurement to marketing spend to delivery routing. It is informed by real-time, high-quality data. The business achieves sustainable profitability by understanding its customers deeply, operating with precision and learning continuously."*
 
 ### What "Data-Driven" Means at FashionHub
 
@@ -278,7 +279,7 @@ MATURITY MODEL — FASHIONHUB PROGRESSION PATH
 
 ---
 
-## 🏗️ Data Architecture
+##  Data Architecture
 
 > **Full document:** [`docs/06-data-architecture.md`](docs/06-data-architecture.md)
 
@@ -330,12 +331,12 @@ MATURITY MODEL — FASHIONHUB PROGRESSION PATH
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 > **Full document:** [`docs/07-technology-stack.md`](docs/07-technology-stack.md)
 
 ### Guiding Principle
-> *"Start with the minimum viable stack. Let data maturity drive tool complexity — not the reverse."*
+> *"Start with the minimum viable stack. Let data maturity drive tool complexity and not the reverse."*
 
 ### Full Stack (~$200/month total)
 
@@ -362,7 +363,7 @@ MATURITY MODEL — FASHIONHUB PROGRESSION PATH
 
 ---
 
-## 🛡️ Data Governance, Ethics & Risk
+##  Data Governance, Ethics & Risk
 
 > **Full document:** [`governance/data-governance-framework.md`](governance/data-governance-framework.md)
 
@@ -420,7 +421,7 @@ MATURITY MODEL — FASHIONHUB PROGRESSION PATH
 
 ---
 
-## 🗓️ Implementation Roadmap
+##  Implementation Roadmap
 
 > **Full document:** [`roadmap/implementation-roadmap.md`](roadmap/implementation-roadmap.md)
 
@@ -478,7 +479,7 @@ WEEK 12 ── MONTHLY PROFITABILITY ACHIEVED ✓
 
 ---
 
-## 📊 KPIs & Success Metrics
+##  KPIs & Success Metrics
 
 > **Full document:** [`docs/08-kpi-strategy.md`](docs/08-kpi-strategy.md)
 
@@ -519,7 +520,7 @@ WEEK 12 ── MONTHLY PROFITABILITY ACHIEVED ✓
 
 ---
 
-## 💼 Business Impact
+## Business Impact
 
 > **Full document:** [`docs/09-business-impact.md`](docs/09-business-impact.md)
 
@@ -556,11 +557,11 @@ TOTAL SWING: +GHS 155,000 in 90 days
 | Marketing decisions | Equal spend across channels | Attribution-based allocation | Higher ROI per GHS spent |
 
 ### Competitive Advantage Created
-In Ghana's e-commerce market — where most competitors operate with zero analytics infrastructure — a data-driven FashionHub achieves a **structural competitive advantage** that compounds over time. Better data → better decisions → better customer experience → lower churn → higher LTV → more budget for growth.
+In Ghana's e-commerce market where most competitors operate with zero analytics infrastructure, a data-driven FashionHub achieves a **structural competitive advantage** that compounds over time. Better data → better decisions → better customer experience → lower churn → higher LTV → more budget for growth.
 
 ---
 
-## ✅ Strategic Recommendations
+## Strategic Recommendations
 
 > **Full document:** [`docs/10-recommendations.md`](docs/10-recommendations.md)
 
@@ -586,7 +587,7 @@ In Ghana's e-commerce market — where most competitors operate with zero analyt
 
 ---
 
-## 🎓 Lessons Learned
+##  Lessons Learned
 
 > **Full document:** [`docs/11-lessons-learned.md`](docs/11-lessons-learned.md)
 
@@ -602,16 +603,14 @@ In Ghana's e-commerce market — where most competitors operate with zero analyt
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```
 Data-Strategy-Framework-FashionHub-Ghana/
 │
-├── 📄 README.md                        ← You are here (master document)
-├── 📄 PORTFOLIO.md                     ← Resume bullets, LinkedIn, recruiter summary
-├── 📄 STAKEHOLDER_BRIEF.md             ← One-page executive summary for non-technical readers
-│
-├── 📁 docs/                            ← Deep-dive documentation
+├── 📄 README.md                                       
+├── 📄 STAKEHOLDER_BRIEF.md        
+├── 📁 docs/                            
 │   ├── 01-executive-summary.md
 │   ├── 02-business-problem.md
 │   ├── 03-project-objectives.md
@@ -624,97 +623,40 @@ Data-Strategy-Framework-FashionHub-Ghana/
 │   ├── 10-recommendations.md
 │   └── 11-lessons-learned.md
 │
-├── 📁 governance/                      ← Governance & compliance documentation
+├── 📁 governance/                     
 │   ├── data-governance-framework.md
 │   ├── privacy-compliance-checklist.md
 │   ├── risk-register.md
 │   └── data-ownership-matrix.md
 │
-├── 📁 roadmap/                         ← Implementation planning
+├── 📁 roadmap/                        
 │   ├── implementation-roadmap.md
 │   ├── phase1-quick-wins.md
 │   ├── phase2-capability-building.md
 │   └── phase3-advanced-analytics.md
 │
-├── 📁 portfolio/                       ← Career & personal branding assets
-│   ├── resume-bullets.md
-│   ├── linkedin-description.md
-│   ├── recruiter-summary.md
-│   └── stakeholder-presentation-summary.md
-│
-└── 📁 presentation/                    ← Original deliverables
+└── 📁 presentation/                   
     └── Group9_FashionHub_DataStrategy.pptx
-```
 
 ---
 
-## 🌟 Portfolio & Career Assets
+##  Team
 
-> **Full document:** [`PORTFOLIO.md`](PORTFOLIO.md)
+| Name | Role |
+|---|---|
+| Helina Commey  |  | Strategy Lead |
+| Chrappah Christabel Kabukie |  | Governance & Risk |
+| Samson Awinsone Ayamga| | Architecture & Technology |
 
-### Resume Bullet Points
-
-```
-• Designed an enterprise-grade data strategy for a GHS 450K/month e-commerce startup,
-  projecting a GHS 155,000 monthly profit swing through data infrastructure and analytics
-
-• Conducted a structured analytics maturity assessment (Level 1→3 roadmap) covering
-  data quality, tooling, governance, and organizational capability gaps
-
-• Architected a four-layer conceptual data infrastructure (ingestion → storage →
-  processing → consumption) using an affordable $200/month technology stack
-
-• Developed a complete data governance framework aligned to Ghana's Data Protection
-  Act 843, including RACI ownership, risk register, and compliance checklist
-
-• Built an 18-month phased implementation roadmap with KPIs, milestones,
-  dependencies, and risk flags across three analytical maturity phases
-```
-
-### LinkedIn Project Description
-
-```
-📊 FashionHub Ghana — Enterprise Data Strategy | OMIS 407, UGBS
-
-Designed and delivered a complete data strategy for a struggling e-commerce
-startup as part of an Analytics Planning and Strategy consulting simulation.
-
-The engagement covered: organizational context analysis, analytics maturity
-assessment, conceptual data architecture design, technology stack selection,
-governance and compliance framework (Ghana Act 843), 18-month implementation
-roadmap, and ROI-focused KPI framework.
-
-Key outcome: Strategy projected a GHS 155,000 monthly profit improvement
-(from -GHS 90K loss to +GHS 65K profit) through data infrastructure,
-customer retention analytics, and operational optimization.
-
-Skills demonstrated: Data strategy, analytics maturity modeling, governance
-frameworks, technology architecture, business case development, stakeholder
-communication.
-
-🔗 Full documentation: [GitHub link]
-```
-
----
-
-## 👥 Team
-
-| Name | Student ID | Role |
-|---|---|---|
-| Samson Awinsone Ayamga | 11219536 | Strategy Lead |
-| Chrappah Christabel Kabukie | 11207632 | Governance & Risk |
-| Helina Commey | 11115880 | Architecture & Technology |
-
-**Group:** 9 — Main Campus
 **Course:** OMIS 407 — Analytics Planning and Strategy
-**Scenario:** 9 — E-Commerce Startup Struggling to Scale Profitably
+**Scenario:** E-Commerce Startup Struggling to Scale Profitably
 **Institution:** University of Ghana Business School (UGBS)
 **Instructor:** *(Course Instructor)*
-**Submitted:** 2025
+**Submitted:** Febuary, 2026.
 
 ---
 
-## 📚 References
+##  References
 
 - Ghana Data Protection Commission. (2012). *Data Protection Act, 2012 (Act 843).* https://www.dataprotection.org.gh/
 - Gartner. (2023). *Data and Analytics Maturity Model.* Gartner Research.
@@ -740,7 +682,5 @@ communication.
 <br/>
 
 **⭐ Star this repository if it helped your understanding of enterprise data strategy**
-
-**🔗 Connect with the team on LinkedIn**
 
 </div>

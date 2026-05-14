@@ -1,9 +1,8 @@
-# 🛡️ Data Governance Framework — FashionHub Ghana
+#  Data Governance Framework — FashionHub Ghana
 
 **Document:** DG-001
 **Owner:** Data Owner (Founder / CEO)
 **Version:** 1.0
-**Last Updated:** 2025
 
 ---
 

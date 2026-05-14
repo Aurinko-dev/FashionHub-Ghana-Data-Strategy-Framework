@@ -29,23 +29,22 @@
 
 | Section | Description |
 |---|---|
-| [Executive Summary]| High-level overview for decision-makers |
-| [Business Problem](#-business-problem) | Root cause analysis of profitability crisis |
-| [Project Objectives](#-project-objectives) | What this strategy set out to achieve |
-| [Framework Overview](#-strategy-framework-overview) | Eight-section data strategy structure |
-| [Maturity Assessment](#-data--analytics-maturity-assessment) | Current state vs target state |
-| [Target Data Vision](#-target-data-vision) | What data-driven looks like at FashionHub |
-| [Data Architecture](#️-data-architecture) | Four-layer conceptual system design |
-| [Technology Stack](#-technology-stack) | Affordable, Ghana-appropriate tooling |
-| [Governance & Risk](#-data-governance-ethics--risk) | Ownership, compliance, and risk controls |
-| [Implementation Roadmap](#-implementation-roadmap) | 18-month phased rollout plan |
-| [KPIs & Success Metrics](#-kpis--success-metrics) | How we measure what matters |
-| [Business Impact](#-business-impact) | Financial and operational transformation |
-| [Recommendations](#-strategic-recommendations) | Board-level action priorities |
-| [Lessons Learned](#-lessons-learned) | Strategic insights from the engagement |
-| [Repository Structure](#-repository-structure) | How this project is organized |
-| [Portfolio & Career Assets](#-portfolio--career-assets) | Resume bullets, LinkedIn, recruiter summary |
-| [Team](#-team) | Contributors and course information |
+| Executive Summary| High-level overview for decision-makers |
+| Business Problem | Root cause analysis of profitability crisis |
+| Project Objectives | What this strategy set out to achieve |
+| Framework Overview | Eight-section data strategy structure |
+| Maturity Assessment | Current state vs target state |
+| Target Data Vision | What data-driven looks like at FashionHub |
+| Data Architecture | Four-layer conceptual system design |
+| Technology Stack| Affordable, Ghana-appropriate tooling |
+| Governance & Risk | Ownership, compliance, and risk controls |
+| Implementation Roadmap | 18-month phased rollout plan |
+| KPIs & Success Metrics| How we measure what matters |
+| Business Impact | Financial and operational transformation |
+| Recommendations| Board-level action priorities |
+| Lessons Learned | Strategic insights from the engagement |
+| Repository Structur]| How this project is organized |
+| Team | Contributors and course information |
 
 ---
 

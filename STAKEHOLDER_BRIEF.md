@@ -1,8 +1,8 @@
-# 📋 Stakeholder Brief — FashionHub Ghana Data Strategy
+#  Stakeholder Brief — FashionHub Ghana Data Strategy
 
 **For:** Board Members, Investors, Non-Technical Stakeholders
-**Prepared by:** Group 9 — OMIS 407, University of Ghana Business School
-**Date:** 2025
+**Prepared by:** Group 9  OMIS 407, University of Ghana Business School
+**Date:** 2026
 
 ---
 

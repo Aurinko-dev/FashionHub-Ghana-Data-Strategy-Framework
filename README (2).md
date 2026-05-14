@@ -75,8 +75,6 @@ A phased, 18-month data strategy targeting **Level 1 → Level 3 analytics matur
 
 ##  Business Problem
 
-> **Full document:** [`docs/02-business-problem.md`](docs/02-business-problem.md)
-
 ### Situation
 FashionHub Ghana entered Month 1 with strong revenue momentum but a structurally broken operating model. A diagnostic assessment revealed that the business was scaling its losses, not its profits.
 
@@ -127,8 +125,6 @@ tracking  Retention       validation
 ---
 
 ## Project Objectives
-
-> **Full document:** [`docs/03-project-objectives.md`](docs/03-project-objectives.md)
 
 This engagement was scoped to deliver eight strategic outcomes:
 
@@ -273,7 +269,6 @@ MATURITY MODEL — FASHIONHUB PROGRESSION PATH
 ---
 
 ##  Data Architecture
-
 
 ### Four-Layer Conceptual Architecture
 

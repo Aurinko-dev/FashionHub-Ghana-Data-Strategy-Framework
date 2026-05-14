@@ -463,8 +463,6 @@ WEEK 12 ── MONTHLY PROFITABILITY ACHIEVED ✓
 
 ##  KPIs & Success Metrics
 
-> **Full document:** [`docs/08-kpi-strategy.md`](docs/08-kpi-strategy.md)
-
 ### Data Maturity KPIs
 
 | KPI | Baseline | 6-Month Target | 18-Month Target | Tracking |
@@ -584,8 +582,7 @@ In Ghana's e-commerce market where most competitors operate with zero analytics 
 ```
 Data-Strategy-Framework-FashionHub-Ghana/
 │
-├── 📄 README.md                                       
-├── 📄 STAKEHOLDER_BRIEF.md        
+├── 📄 README.md                                            
 ├── 📁 docs/                            
 │   ├── 01-executive-summary.md
 │   ├── 02-business-problem.md

@@ -29,7 +29,7 @@
 
 | Section | Description |
 |---|---|
-| [Executive Summary](#-executive-summary) | High-level overview for decision-makers |
+| [Executive Summary]| High-level overview for decision-makers |
 | [Business Problem](#-business-problem) | Root cause analysis of profitability crisis |
 | [Project Objectives](#-project-objectives) | What this strategy set out to achieve |
 | [Framework Overview](#-strategy-framework-overview) | Eight-section data strategy structure |

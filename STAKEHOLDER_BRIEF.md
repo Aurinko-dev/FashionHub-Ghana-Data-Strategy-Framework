@@ -75,7 +75,3 @@ PAYBACK PERIOD:                 < 2 weeks
 
 The question is not whether to invest in data. The question is how much longer to operate without it.
 
----
-
-*Full strategy documentation: [GitHub Repository Link]*
-*Prepared as part of OMIS 407: Analytics Planning and Strategy, UGBS*

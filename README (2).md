@@ -19,7 +19,7 @@
 
 <br/>
 
-> *"Data Strategy is not about collecting more data — it's about making better decisions faster."*
+> *"Data Strategy is not about collecting more data. It's about making better decisions faster."*
 
 </div>
 

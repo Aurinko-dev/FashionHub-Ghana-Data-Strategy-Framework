@@ -1,4 +1,4 @@
-# 🗓️ Implementation Roadmap — FashionHub Ghana Data Strategy
+# Implementation Roadmap — FashionHub Ghana Data Strategy
 
 **Document:** ROADMAP-001
 **Version:** 1.0
